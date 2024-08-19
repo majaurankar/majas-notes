@@ -1,2 +1,2 @@
 
-test! v majas notes v content
+test! v v content
